@@ -1,1 +1,4 @@
 Today I set up Git and GitHub for my DevOps learning.
+nano day1.txt
+
+
